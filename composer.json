@@ -1,7 +1,12 @@
 {
 
-	"name": "serpmetrics/smapi",
+    "name": "serpmetrics/smapi",
     "description": "SERP Metrics PHP SDK.",
     "keywords": ["SERP", "SERP Metrics", "SEO"],
-    "type": "project"
+    "type": "project",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
 }
