@@ -1,0 +1,7 @@
+{
+
+	"name": "serpmetrics/smapi",
+    "description": "SERP Metrics PHP SDK.",
+    "keywords": ["SERP", "SERP Metrics", "SEO"],
+    "type": "project"
+}
